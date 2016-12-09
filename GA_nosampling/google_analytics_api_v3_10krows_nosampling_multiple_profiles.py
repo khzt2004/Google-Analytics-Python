@@ -159,7 +159,7 @@ def print_results(results, pag_index, start_date, end_date):
 # Uncomment this line & replace with 'profile name': 'id' to query a single profile
 # Delete or comment out this line to loop over multiple profiles.
 
-profile_ids = {'Solidworks Prod':  '119857637'}
+profile_ids = {'XXXX_profile name':  'XXXX_view ID'}
 
 
 date_ranges = [('2016-09-21',
