@@ -10,4 +10,8 @@ client_secrets.json must be in the same folder
 
 max of 10 metrics, 7 dimensions in any query
 
+query can be changed in line 103
+
+profile id can be changed in line 162
+
 file save directory can be changed in line 201
